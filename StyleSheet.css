@@ -1,0 +1,28 @@
+div {
+	
+	text-align: center;
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
+}
+
+body {
+	background-color: cyan;
+}
+
+#pic1 {
+	border-style: solid;
+	border-color: red;
+}
+
+#pic2 {
+	border-style: solid;
+	border-color: red;
+}
+
+#pic3 {
+	border-style: solid;
+	border-color: red;
+}
